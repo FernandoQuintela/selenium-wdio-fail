@@ -1,4 +1,4 @@
-name: UI Tests (WDIO + Allure)
+name: UI Tests (Fail) – WDIO + Allure
 
 on:
   push:
